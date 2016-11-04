@@ -16,6 +16,6 @@ package org.dakhani.learn;
 public class Learn2 {
 
 	public static void main(final String[] args) {
-		System.out.println("Hello 2");
+		System.out.println("Hello 2 Second");
 	}
 }
