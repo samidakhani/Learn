@@ -16,7 +16,7 @@ package org.dakhani.learn;
 public class Learn {
 
 	public static void main(final String[] args) {
-		System.out.println("Develop 2 manages");
+		System.out.println("Manages a new line");
 	}
 
 }
