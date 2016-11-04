@@ -16,7 +16,7 @@ package org.dakhani.learn;
 public class Learn {
 
 	public static void main(final String[] args) {
-		System.out.println("Latest commit for merge");
+		System.out.println("Latest commit for merge to");
 	}
 
 }
