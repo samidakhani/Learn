@@ -17,7 +17,7 @@ public class Learn {
 
 	public static void main(final String[] args) {
 		System.out.println("Adding a line 1 to develop");
-		System.out.println("Develop 2 manages");
+		System.out.println("new song in market");
 		System.out.println("Adding a line 2 to develop");
 	}
 
