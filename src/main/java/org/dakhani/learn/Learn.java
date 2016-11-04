@@ -16,7 +16,7 @@ package org.dakhani.learn;
 public class Learn {
 
 	public static void main(final String[] args) {
-		System.out.println("Master merging");
+		System.out.println("Develop 2 manages");
 	}
 
 }
